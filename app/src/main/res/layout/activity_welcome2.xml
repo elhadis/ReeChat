@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/wellcom"
+    tools:context=".WelcomeActivity2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:text="@string/welcome"
+        android:textSize="35sp"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:textColor="@android:color/white"
+        android:text="@string/register"
+        android:layout_marginTop="25dp"
+
+        android:textColorHint="@android:color/white"
+        android:id="@+id/segister_welcome_btn"
+
+        android:inputType="text"/>
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:textColor="@android:color/white"
+        android:text="@string/login"
+        android:layout_marginTop="25dp"
+
+        android:textColorHint="@android:color/white"
+        android:id="@+id/login_welcome_btn"
+
+        android:inputType="text"/>
+_
+
+</LinearLayout>

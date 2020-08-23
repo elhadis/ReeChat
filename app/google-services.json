@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157167550657",
+    "firebase_url": "https://reechat-30e41.firebaseio.com",
+    "project_id": "reechat-30e41",
+    "storage_bucket": "reechat-30e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157167550657:android:583bd402721b51d838d440",
+        "android_client_info": {
+          "package_name": "com.rgbaat.reechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157167550657-9lcet8442ia4bmpq7u52fqcfm6ea48c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF_MYo2Ki2EsnPpQNIEsf93nrmLuG4rT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157167550657-9lcet8442ia4bmpq7u52fqcfm6ea48c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
